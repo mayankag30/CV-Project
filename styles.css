@@ -1,0 +1,32 @@
+body {
+  background-color: #EAF6F6;
+}
+
+h1{
+  color: #e43f5a;
+  text-align: center;
+}
+
+h3{
+  color: #511845;
+}
+
+h2 {
+  color: #511845;
+}
+
+img{
+  background-color: black;
+}
+
+
+hr{
+   border-color: grey;
+   border-style: dotted none none;
+   border-width: 1px;
+   width: 5%;
+}
+
+.platform{
+  background-color: grey;
+}
